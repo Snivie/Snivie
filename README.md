@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://i.pinimg.com/originals/c1/0d/21/c10d214c14e684b71af12d7f014feb88.gif" height="50">
 
 <!--
 **Snivie/Snivie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
