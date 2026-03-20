@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.tenor.com/4IBZts-JtlEAAAAi/butterfly-pixel.gif" height="40"> 
+# Hi there! <img src="https://media.tenor.com/4IBZts-JtlEAAAAi/butterfly-pixel.gif" height="30"> 
 
 <img src="https://i.pinimg.com/originals/c1/0d/21/c10d214c14e684b71af12d7f014feb88.gif" height="150">
 
